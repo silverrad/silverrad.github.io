@@ -1,0 +1,6 @@
+C:\Users\b-cohayn\Documents\Visual Studio 2012\Projects\SilentTsuanami\SilentTsuanami\bin\SilentTsuanami.dll
+C:\Users\b-cohayn\Documents\Visual Studio 2012\Projects\SilentTsuanami\SilentTsuanami\bin\SilentTsuanami.pdb
+C:\Users\b-cohayn\Documents\Visual Studio 2012\Projects\SilentTsuanami\SilentTsuanami\obj\Debug\SilentTsuanami.csprojResolveAssemblyReference.cache
+C:\Users\b-cohayn\Documents\Visual Studio 2012\Projects\SilentTsuanami\SilentTsuanami\obj\Debug\SilentTsuanami.dll
+C:\Users\b-cohayn\Documents\Visual Studio 2012\Projects\SilentTsuanami\SilentTsuanami\obj\Debug\SilentTsuanami.pdb
+C:\Users\b-cohayn\Documents\Visual Studio 2012\Projects\SilentTsuanami\SilentTsuanami\obj\Debug\SilentTsuanami.g.resources

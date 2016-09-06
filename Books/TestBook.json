@@ -1,0 +1,104 @@
+﻿{
+    "book": {
+        "title": "The Great Frog",
+		"author": "C-rad Haynes",
+		"pageCount": "3",
+		"goalCount": "2",
+		"Pages": [
+			{
+				"id": "0",
+				"type": "ImagePage",
+				"src": "BOL.jpg",
+				"Tips": [
+					{
+						"id": 2,
+						"description": "Sully is lost",
+						"x": 200,
+						"y": 300
+					},
+					{
+						"id": 12,
+						"description": "Hover on top to display menu",
+						"x": 300,
+						"y": 50
+					}
+				],
+				"Notes": [
+					{
+						"title" : "OMG",
+						"content" : "I love this part of the story!!!! XOXO"
+					}
+				],
+				"content": "Harry Potter is a series of seven fantasy novels written by the British author J. K. Rowling. The series chronicles the adventures of a young wizard, Harry Potter, the titular character, and his friends Ronald Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's quest to overcome the Dark wizard Lord Voldemort, who aims to become immortal, conquer the wizarding world, subjugate non-magical people, and destroy all those who stand in his way, especially Harry Potter. Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 30 June 1997, the books have gained immense popularity, critical acclaim, and commercial success worldwide.[2] The series has also had some share of criticism, including concern for the increasingly dark tone. As of July 2013, the books had sold between 400 and 450 million copies, making them one of the best-selling book series in history, and had been translated into 73 languages.[3][4] The last four books consecutively set records as the fastest-selling books in history, with the final instalment selling approximately 11 million copies in the United States within the first twenty-four hours of its release. A series of many genres, including fantasy, coming of age, and the British school story (with elements of mystery, thriller, adventure, and romance), it has many cultural meanings and references.[5] According to Rowling, the main theme is death.[6] There are also many other themes in the series, such as prejudice and corruption.[7] The series was originally printed in English by two major publishers, Bloomsbury in the United Kingdom and Scholastic Press in the United States. The books have since been published by many publishers worldwide. The books, with the seventh book split into two parts, have been made into an eight-part film series by Warner Bros. Pictures, the highest-grossing film series as of October 2014. The series also originated much tie-in merchandise, making the Harry Potter brand worth in excess of $15 billion.[8] Because of the success of the books and films, Harry Potter-themed areas, known as The Wizarding World of Harry Potter, have been created at several Universal Parks & Resorts theme parks.",
+				"chapterName": "The Awakening",
+				"chapterNumber": "Chapter 1",
+				"audio" : ""		
+			},
+			{
+				"id": "1",
+				"type": "VideoPage",
+				"src": "Videos/TempHDVideo.mp4",
+				"Tips": [
+					{
+						"id": 30,
+						"description": "Video Controls are awesome",
+						"x": 100,
+						"y": 200
+					}
+				],
+				"Notes": [
+				],
+				"content": "The novels revolve around Harry Potter, an orphan who discovers at the age of eleven that he is a wizard, living within the ordinary world of non-magical people, known as Muggles.[9] His ability is inborn, and such children are invited to attend an exclusive magic school that teaches the necessary skills to succeed in the wizarding world.[10] Harry becomes a student at Hogwarts School of Witchcraft and Wizardry, and it is here where most of the events in the series take place. As Harry develops through his adolescence, he learns to overcome the problems that face him: magical, social and emotional, including ordinary teenage challenges such as friendships, infatuation and exams, and the greater test of preparing himself for the confrontation in the real world that lies ahead.",
+				"chapterName": "The Awakening",
+				"chapterNumber": "Chapter 1",
+				"audio": ""	
+			},
+			{
+				"id": "2",
+				"type": "VideoPage",
+				"src": "Videos/TempHD2Video.mp4",
+				"Tips": [
+					{
+						"id": 27,
+						"description": "No Tips Today",
+						"x": 100,
+						"y": 200
+					}
+				], 
+				"Notes": [
+				],
+				"content": "Each book chronicles one year in Harry's life[12] with the main narrative being set in the years 1991–98.[13] The books also contain many flashbacks, which are frequently experienced by Harry viewing the memories of other characters in a device called a Pensieve.",
+				"chapterName": "The Awakening",
+				"chapterNumber": "Chapter 1",
+				"audio": ""
+			}
+        ],
+		"Goals": [
+			{
+				"id": "1",
+				"type": "DiscoveryGoal",
+				"title": "Find the Sorcerer's Stone",
+				"description": "Harry and Conrad have been looking all over for this stone with magical properties. Hint: look around the edges!"
+				},
+			{
+				"id": "2",
+				"type": "CollectionGoal",
+				"title": "Collect all 5 golden rings!",
+				"description": "Snitches run wild and free during gameplay. Do your best to find and collect them all!"
+
+				},
+			{
+				"id": "3",
+				"type": "GameGoal",
+				"title": "Defeat the Voltorb!",
+				"description": "Some say he was raised by snakes in the dark forest. Others believe he was born of trolls in the sea of inequity. Whereever he lives, it is your job to seek him out and destroy him"
+				},
+			{
+				"id": "4",
+				"type": "DiscoveryGoal",
+				"title": "Find the CONRAD Stone",
+				"description": "Harry and Conrad have been looking all over for this stone with magical properties. Hint: look around the edges!"
+				}
+		]
+    }
+}
